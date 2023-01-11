@@ -1,0 +1,17 @@
+C:\Users\Temuj\source\repos\CeasarCypherer\CeasarCypherer\bin\Debug\net6.0-windows\CeasarCypherer.exe
+C:\Users\Temuj\source\repos\CeasarCypherer\CeasarCypherer\bin\Debug\net6.0-windows\CeasarCypherer.deps.json
+C:\Users\Temuj\source\repos\CeasarCypherer\CeasarCypherer\bin\Debug\net6.0-windows\CeasarCypherer.runtimeconfig.json
+C:\Users\Temuj\source\repos\CeasarCypherer\CeasarCypherer\bin\Debug\net6.0-windows\CeasarCypherer.dll
+C:\Users\Temuj\source\repos\CeasarCypherer\CeasarCypherer\bin\Debug\net6.0-windows\CeasarCypherer.pdb
+C:\Users\Temuj\source\repos\CeasarCypherer\CeasarCypherer\obj\Debug\net6.0-windows\CeasarCypherer.csproj.AssemblyReference.cache
+C:\Users\Temuj\source\repos\CeasarCypherer\CeasarCypherer\obj\Debug\net6.0-windows\CeasarCypherer.Form1.resources
+C:\Users\Temuj\source\repos\CeasarCypherer\CeasarCypherer\obj\Debug\net6.0-windows\CeasarCypherer.csproj.GenerateResource.cache
+C:\Users\Temuj\source\repos\CeasarCypherer\CeasarCypherer\obj\Debug\net6.0-windows\CeasarCypherer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Temuj\source\repos\CeasarCypherer\CeasarCypherer\obj\Debug\net6.0-windows\CeasarCypherer.AssemblyInfoInputs.cache
+C:\Users\Temuj\source\repos\CeasarCypherer\CeasarCypherer\obj\Debug\net6.0-windows\CeasarCypherer.AssemblyInfo.cs
+C:\Users\Temuj\source\repos\CeasarCypherer\CeasarCypherer\obj\Debug\net6.0-windows\CeasarCypherer.csproj.CoreCompileInputs.cache
+C:\Users\Temuj\source\repos\CeasarCypherer\CeasarCypherer\obj\Debug\net6.0-windows\CeasarCypherer.dll
+C:\Users\Temuj\source\repos\CeasarCypherer\CeasarCypherer\obj\Debug\net6.0-windows\refint\CeasarCypherer.dll
+C:\Users\Temuj\source\repos\CeasarCypherer\CeasarCypherer\obj\Debug\net6.0-windows\CeasarCypherer.pdb
+C:\Users\Temuj\source\repos\CeasarCypherer\CeasarCypherer\obj\Debug\net6.0-windows\CeasarCypherer.genruntimeconfig.cache
+C:\Users\Temuj\source\repos\CeasarCypherer\CeasarCypherer\obj\Debug\net6.0-windows\ref\CeasarCypherer.dll
